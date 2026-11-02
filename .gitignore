@@ -3,3 +3,4 @@ claude_desktop_config.json
 whatsapp.log
 triage/.env
 triage/state.json
+whatsapp-bridge/store/*/
